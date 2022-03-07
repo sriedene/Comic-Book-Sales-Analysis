@@ -1,0 +1,2 @@
+# Comic-Book-Sales-Analysis
+This repository contains one Jupyter Notebook file which shows monthly comic book sales data compared against major comic book movie releases. A correclation between sales increases and the movie releases was visually and not mathematically inspected. This project was more an exercise in showing basics with web scraping and visualization output than it was an analytics task.
